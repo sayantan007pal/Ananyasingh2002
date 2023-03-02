@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyasingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="ananyasingh2002" /> </p>
 
 
-- 📖 I’m currently pursuing my Bachelor's in Computer enginnering from [Bharati Vidyapeeth (DU) College of Engineering.](https://www.bvuniversity.edu.in/)
+- 📖 I’m currently pursuing my Bachelor's in Computer engineering from [Bharati Vidyapeeth (DU) College of Engineering.](https://www.bvuniversity.edu.in/)
 
 - 💻 I’m currently learning **React.js and Angular.js (Frontend)**.
 
