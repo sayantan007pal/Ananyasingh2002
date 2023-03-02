@@ -11,7 +11,7 @@
 
 - 📱 Connect with me [LinkedIn](https://www.linkedin.com/in/ananya-singh-29b304224/)
 
-- 👨‍💻 All of my projects are available at [https://ananyasingh.co.in/](https://ananyasingh.co.in/)
+- 👨‍💻 All of my projects are available at [Website](https://ananyasingh.co.in/)
 
 - 💻 I'm currently learning **Node.js and Express.js (Backend)**
 
