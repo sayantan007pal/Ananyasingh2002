@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
+<div style="text-align:center;">
  <a href="https://ananyasingh.co.in">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1NTNlNWJiM2UzNDNiM2I0MDcwOTYzNDI5ODVmN2I4OGUxN2JlMyZjdD1n/VcjZKTByOmXW7ueHKE/giphy.gif" alt="MasterHead">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1NTNlNWJiM2UzNDNiM2I0MDcwOTYzNDI5ODVmN2I4OGUxN2JlMyZjdD1n/VcjZKTByOmXW7ueHKE/giphy.gif" alt="MasterHead" style="width: 2000px; height: 600px;">
  </a>
 </div>
 <h1 align="center">Hi there!👋, I'm Ananya singh</h1>
