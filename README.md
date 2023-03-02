@@ -7,15 +7,15 @@
 
 - 📖 I’m currently pursuing my Bachelor's in Computer enginnering from [Bharati Vidyapeeth (DU) College of Engineering.](https://www.bvuniversity.edu.in/)
 
-- 💻 I’m currently learning **React.js and Angular.js (Frontend)**
+- 💻 I’m currently learning **React.js and Angular.js (Frontend)**.
 
-- 📱 Connect with me [LinkedIn](https://www.linkedin.com/in/ananya-singh-29b304224/)
+- 📱 Connect with me [LinkedIn.](https://www.linkedin.com/in/ananya-singh-29b304224/)
 
-- 👨‍💻 All of my projects are available at [Website](https://ananyasingh.co.in/)
+- 👨‍💻 All of my projects are available at [Website.](https://ananyasingh.co.in/)
 
-- 💻 I'm currently learning **Node.js and Express.js (Backend)**
+- 💻 I'm currently learning **Node.js and Express.js (Backend)**.
 
-- 📫 How to reach me **singh.ananya4458@gmail.com**
+- 📫 How to reach me **singh.ananya4458@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
