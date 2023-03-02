@@ -1,5 +1,4 @@
 <a href="https://ananyasingh.co.in"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1NTNlNWJiM2UzNDNiM2I0MDcwOTYzNDI5ODVmN2I4OGUxN2JlMyZjdD1n/VcjZKTByOmXW7ueHKE/giphy.gif" width="2000px" height="300px"></a>
-</div>
 <h1 align="center">Hi there!👋, I'm Ananya singh</h1>
 <h3 align="center">I'm a Web Developer</h3>
  <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding" width="400">
