@@ -14,7 +14,7 @@
 
 - 📱 Connect with me [LinkedIn.](https://www.linkedin.com/in/ananya-singh-29b304224/)
 
-- 👨‍💻 All of my projects are available at [Website.](https://ananyasingh.co.in/)
+- 👨‍💻 All of my projects are available on my [Website.](https://ananyasingh.co.in/)
 
 - 📫 How to reach me **singh.ananya4458@gmail.com**.
 
