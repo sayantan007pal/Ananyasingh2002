@@ -16,7 +16,7 @@
 <div align="center">
   
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="https://github.com/Ananyasingh2002/Ananyasingh2002/assets/90714878/40b5a631-b4cb-4c1a-947c-86b7da6b98b6">
+  <img alt="" style="{max-height: 0px}" src="">
 </p>
 
   
