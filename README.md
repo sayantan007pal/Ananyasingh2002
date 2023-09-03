@@ -126,9 +126,9 @@ I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
   
 <p align="center">
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ossamamehmood&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ananyasingh2002&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Ananyasingh2002&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
 
