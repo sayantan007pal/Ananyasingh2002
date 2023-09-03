@@ -1,16 +1,3 @@
-<!--- assets are created on Canva --->
-<!--- Feel free to download the assets and use them in your profile --->
-<!--- to upload an asset, create an issue on any of your repositories and add files, the link will be generated --->
-
-
-<!--- animated text, to copy, just replace the lines with your choice or visit https://readme-typing-svg.herokuapp.com --->
-  
-<!---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2000&color=FF58C4&center=true&width=500&lines=OSSAMA+MEHMOOD+%EC%83%98;Software+Engineer;Digital+Creator;Graphic+Designer+;User+Interface+(UI);User+Experience+(UX))](https://git.io/typing-svg)
-
---->
-  
 <!--- header image --->
 
 <div align="center">
@@ -63,15 +50,6 @@
   
   
 <!--- language icons --->
-  
-  
-<!--- 
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152359293-4c3dc461-2be7-4d75-b5e3-6244637020e1.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152361790-b7faad3d-5f95-468a-aa51-e38f39419ec4.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" /> 
---->
-  
   
 
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
@@ -136,24 +114,6 @@ I am a third-year Computer Science undergraduate at Bharati Vidyapeeth Deemed to
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Ananyasingh2002&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
-
-
-<!--- Recent Activity ☂️ ---> 
-
-<!--- <h1 align="center">
-    Recent Activity ☂️
-    </h2>
-
-<table align="center">
-  <tr> 
-    <div style="text-align: center;">
-    <td align="left">
-      
-
- </td>
-   </div>
-  </tr>
-</table> ---> 
 
 
 <!--- Github snack contribution graph --->
